@@ -12,7 +12,6 @@ _{This is a detailed description of your application. Its purpose and usage.  Gi
 
 * _No Setup/Installation Required_
 
-_No need for any extra software just open a browser and input the address in the address bar_
 
 ## Known Bugs
 
@@ -30,4 +29,4 @@ _{Tell me about the languages and tools you used to create this app. Assume that
 
 *This Software is Licensed under the MIT License.*
 
-Copyright (c) 2016 **_Ryan McLean_**
+Copyright (c) 2019 **_Ryan McLean_**
