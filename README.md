@@ -19,7 +19,7 @@ _There are no known bugs._
 
 ## Support and contact details
 
-_Please contact Ryan McLean at mcleanrs@comcast.net._
+_Please contact Ryan McLean at rmcleandev@gmail.com_
 
 ## Technologies Used
 
